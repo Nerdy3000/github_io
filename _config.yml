@@ -2,8 +2,9 @@ title: Kelly Savoy
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Senior Software Engineering Manager
-  <br><br>
-  <a href="https://www.linkedin.com/in/kellyboland/">View My LinkedIn Profile</a> 
+  
+show_links: true;
+linkedin_url: https://www.linkedin.com/in/kellyboland/
   
 # slate specific stuff
 github:
