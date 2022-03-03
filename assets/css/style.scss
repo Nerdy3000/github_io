@@ -3,6 +3,10 @@
 @import "{{ site.theme }}";
 
 header {
+  h1 a {
+    color: #333333;
+  }
+  
   img.logo {
     padding: 20px 20px 20px 0;
     max-width: calc( 100% - 20px );
@@ -44,4 +48,8 @@ header {
       }
     }
   }
+}
+
+footer {
+  bottom: 0;
 }
