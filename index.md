@@ -8,6 +8,9 @@
 <img src="images/youtube-playlist-app.png?raw=true"/>
 
 ---
+
+### Other Tech I've Played With
+
 [Tableau Report: Ontario Absentee Percentage](/tableau-example)
 <img src="images/tableau_ontario_absentee_percentage.png?raw=true"/>
 
