@@ -8,8 +8,8 @@
 <img src="images/youtube-playlist-app.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau Report: Ontario Absentee Percentage](/tableau-example)
+<img src="images/tableau_ontario_absentee_percentage.png?raw=true"/>
 
 ---
 <!--
