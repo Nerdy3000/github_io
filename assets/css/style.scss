@@ -43,8 +43,12 @@ header {
       &:hover,
       &:focus {
         div {
-          filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+          filter: invert(41%) sepia(30%) saturate(1208%) hue-rotate(162deg) brightness(98%) contrast(91%);
         }
+      }
+      
+      & + a {
+        margin-left: 0.5em;
       }
     }
   }
