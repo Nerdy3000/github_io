@@ -7,4 +7,41 @@ header {
     padding: 20px 20px 20px 0;
     max-width: calc( 100% - 20px );
   }
+  
+  .sidebar-links {
+    display: flex;
+    
+    & > a {
+      & > div {
+        display: block;
+        width: 32px;
+        height: 32px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        & > span {
+          display: none;
+        }
+      }
+      
+      &.github-link {
+        div {
+          background-image: url(/images/github.svg);
+        }
+      }
+      
+      &.linkedin-link {
+        div {
+          background-image: url(/images/linkedin.svg);
+        }
+      }
+      
+      &:hover,
+      &:focus {
+        div {
+          filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+        }
+      }
+    }
+  }
 }
