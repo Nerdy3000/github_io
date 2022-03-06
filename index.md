@@ -16,12 +16,24 @@ Most of my current work is done through Mercatus and cannot be shared publicly. 
 
 ### Open Source Web App
 
-[Youtube Channel Playlist](/youtube-channel-playlist)
+#### Youtube Channel Playlist
+
+I was recently attempting to go through all the videos uploaded by a channel that has been posting for 12 years. I realized that there was a limit of around 200 videos for all of the searching, meaning I could view the most recent 200, the most popular 200, etc, but I could not view all their videos in one list. I built myself this application so that I could run it locally and view the full list of uploads for the channel.
+
+It was also a great exercise to get more familiarity with spinning up a new application with VueJS.
+
 <img src="images/youtube-playlist-app.png?raw=true"/>
 
 ---
 
 ### Other Tech I've Played With
 
-[Tableau Report: Ontario Absentee Percentage](/tableau-example)
+#### Tableau Report: Ontario Absentee Percentage
+
+The report can be used to filter the data available for absence percentage from schools (https://data.ontario.ca/dataset/summary-of-cases-in-schools)
+
+View the tableau report [here](https://public.tableau.com/app/profile/kelly.savoy/viz/OntarioSchoolAbsencePercentage/OntarioSchoolAbsentism)
+
+I learned Tableau when the Tableau expert at Mercatus left the company and we needed some modifications made to the reports. I took a Udemy course and practiced on some copies of the reports until I was comfortable using Tableau.  I've since used Tableau to generate some reports for internal usage.
+
 <img src="images/tableau_ontario_absentee_percentage.png?raw=true"/>
