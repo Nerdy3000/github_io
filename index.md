@@ -18,9 +18,13 @@ Most of my current work is done through Mercatus and cannot be shared publicly. 
 
 #### Youtube Channel Playlist
 
-I was recently attempting to go through all the videos uploaded by a channel that has been posting for 12 years. I realized that there was a limit of around 200 videos for all of the searching, meaning I could view the most recent 200, the most popular 200, etc, but I could not view all their videos in one list. I built myself this application so that I could run it locally and view the full list of uploads for the channel.
+A Vue.js project that I built to play around with YouTube playlists.
 
-It was also a great exercise to get more familiarity with spinning up a new application with VueJS.
+The motivation for this project was because I wanted to watch all the videos by a specific creator on YouTube, but they have content going back 12 years and the YouTube application limits how many videos display, allowing sorting for newest or most popular, but still limited on how many videos would show.
+
+I wanted a tool that would allow me to see all the videos uploaded from the channel and be able to paginate through the uploads.
+
+View the repo for the project [here](https://github.com/Nerdy3000/youtube-channel-videolist)
 
 <img src="images/youtube-playlist-app.png?raw=true"/>
 
