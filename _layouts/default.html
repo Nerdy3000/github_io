@@ -25,19 +25,19 @@
         {% if site.show_links %}
           <div class="sidebar-links">
             {% if site.github.is_project_page %}
-              <a href="{{ site.github.repository_url }}" class="github-link" title="View the Project on GitHub {{ site.github.repository_nwo }}">
+              <a href="{{ site.github.repository_url }}" class="github-link" target="_blank" title="View the Project on GitHub {{ site.github.repository_nwo }}">
                 <div>
                   <span>View the Project on GitHub {{ site.github.repository_nwo }}</span>
                 </div>
               </a>
             {% endif %}
             {% if site.github.is_user_page %}
-              <a href="{{ site.linkedin_url }}" class="linkedin-link" title="View My Profile on Linked In">
+              <a href="{{ site.linkedin_url }}" class="linkedin-link" target="_blank" title="View My Profile on Linked In">
                 <div>
                   <span>View My Profile on Linked In</span>
                 </div>
               </a>
-              <a href="{{ site.github.owner_url }}" class="github-link" title="View My GitHub Profile">
+              <a href="{{ site.github.owner_url }}" class="github-link" target="_blank" title="View My GitHub Profile">
                 <div>
                   <span>View My GitHub Profile</span>
                 </div>
