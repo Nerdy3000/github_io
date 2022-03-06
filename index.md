@@ -10,8 +10,6 @@ Keep reading more about me [here](/about-me)
 
 ## Portfolio
 
----
-
 Most of my current work is done through Mercatus and cannot be shared publicly. The projects I work on are focused around the tools that grocery retailers use to manage their data and ecommerce experience, this includes an application that is used through an iPhone in a sled that the retailer employees use to pick the orders.  I also build other internal use tools and APIs to support the other teams.
 
 ---
