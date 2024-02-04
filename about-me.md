@@ -15,7 +15,7 @@ These docs help others learn the best ways to communicate with you and your valu
 
 ### Technologies I Use
 
-The server-side scripting language I'm most comfortable with is PHP, especially with the Laravel/Lumen which help streamline building applications and RESTful APIs. I have some experience with Python, but mainly use it for things such as scripts for Docker.
+The server-side scripting language I'm most comfortable with is PHP, especially with the Laravel/Lumen which help streamline building applications and RESTful APIs. I have some experience with Python, but mainly use it for things such as scripts for Docker.  I also have experience with NodeJs.
 
 For front-end frameworks, I have experience with VueJS and AngularJS. I regularily use NPM and Webpack for building applications.
 
