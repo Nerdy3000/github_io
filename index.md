@@ -10,34 +10,6 @@ Keep reading more about me [here](/about-me)
 
 ## Portfolio
 
-Most of my current work is done through Mercatus and cannot be shared publicly. The projects I work on are focused around the tools that grocery retailers use to manage their data and ecommerce experience, this includes an application that is used through an iPhone in a sled that the retailer employees use to pick the orders.  I also build other internal use tools and APIs to support the other teams.
+Most of my current work is done through Mercatus and cannot be shared publicly. The projects I work on are focused around the tools that grocery retailers use to manage their data and ecommerce experience, this includes an application that is used through iPhone in a Honeywell sled as well as Android devices that the retailer employees use to pick the orders.
 
----
-
-### Open Source Web App
-
-#### Youtube Channel Playlist
-
-A Vue.js project that I built to play around with YouTube playlists.
-
-The motivation for this project was because I wanted to watch all the videos by a specific creator on YouTube, but they have content going back 12 years and the YouTube application limits how many videos display, allowing sorting for newest or most popular, but still limited on how many videos would show.
-
-I wanted a tool that would allow me to see all the videos uploaded from the channel and be able to paginate through the uploads.
-
-View the repo for the project [here](https://github.com/Nerdy3000/youtube-channel-videolist)
-
-<img src="images/youtube-playlist-app.png?raw=true"/>
-
----
-
-### Other Tech I've Played With
-
-#### Tableau Report: Ontario Absentee Percentage
-
-The report can be used to filter the data available for absence percentage from schools (https://data.ontario.ca/dataset/summary-of-cases-in-schools)
-
-View the tableau report [here](https://public.tableau.com/app/profile/kelly.savoy/viz/OntarioSchoolAbsencePercentage/OntarioSchoolAbsentism)
-
-I learned Tableau when the Tableau expert at Mercatus left the company and we needed some modifications made to the reports. I took a Udemy course and practiced on some copies of the reports until I was comfortable using Tableau.  I've since used Tableau to generate some reports for internal usage.
-
-<img src="images/tableau_ontario_absentee_percentage.png?raw=true"/>
+I am quick to pick up and work with new technologies and will often write quick scripts for automating repetitive tasks and data analysis for use by myself as well as others.  An example of this is writing bash scripts, loading data through AirByte, into a Clickhouse Database with Database Translation (DBT), or writing a node script that will pull logs from Splunk and New Relic to create and export reports.
